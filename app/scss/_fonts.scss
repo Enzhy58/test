@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Rawline';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Rawline-Regular'),
+        url('../fonts/Rawline-Regular.woff2') format('woff2'),
+        url('../fonts/Rawline-Regular.woff') format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rawline';
+    font-weight: 600;
+    font-style: normal;
+    src: local('Rawline-SemiBold'),
+        url('../fonts/Rawline-SemiBold.woff2') format('woff2'),
+        url('../fonts/Rawline-SemiBold.woff') format('woff');
+    font-display: swap;
+}
