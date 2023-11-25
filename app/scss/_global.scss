@@ -2,7 +2,13 @@ body {
     background-color: $white;
     color: $black;
     font-family: 'Rawline', sans-serif;
-    font-weight: 600;
+    font-weight: 400;
     font-size: 18px;
     line-height: 18px;
+}
+
+.container {
+    max-width: 1892px;
+    padding: 0 15px;
+    margin: 0 auto;
 }

@@ -3,3 +3,34 @@
 @import 'reset';
 @import 'global';
 @import 'libs';
+
+
+.header {
+    padding: 22px 0 23px;
+    border-bottom: 1px solid $black;
+
+    .menu {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        &__item {
+            color: $accent;
+        }
+
+    }
+
+}
+
+.contacts {
+    display: flex;
+
+    &__item {
+
+        &:not(:last-child) {
+            margin-right: 28px;
+        }
+
+    }
+
+}
