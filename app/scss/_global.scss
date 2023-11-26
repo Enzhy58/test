@@ -12,3 +12,12 @@ body {
     padding: 0 15px;
     margin: 0 auto;
 }
+
+.btn {
+    background-color: $black;
+    color: $white;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 40px;
+    padding: 10px 47px;
+}
