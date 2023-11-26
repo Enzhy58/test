@@ -21,3 +21,11 @@ body {
     line-height: 40px;
     padding: 10px 47px;
 }
+
+@media(max-width: 991px) {
+    
+    .btn {
+        font-size: 18px;
+    }
+    
+}
